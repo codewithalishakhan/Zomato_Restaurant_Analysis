@@ -1,5 +1,5 @@
 <p align="center">
-  <img  alt="GIF" src="https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2024/04/22/9_1713772149.gif/>
+ <img  alt="GIF" src="https://images.bhaskarassets.com/web2images/521/2024/04/22/9_1713772149.gif" height="320" width="500px" />
  </p>
 
 
